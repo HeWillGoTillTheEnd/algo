@@ -1,8 +1,6 @@
 package stack;
 
-import java.util.Scanner;
-import java.util.Stack;
-import java.util.StringTokenizer;
+import java.util.*;
 
 public class PostfixNotationEx {
     public static void main(String[] args) {
